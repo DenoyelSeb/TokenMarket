@@ -80,11 +80,11 @@ npx hardhat run scripts/seed.js --network sepolia
 🔗 Contract Addresses
 
 Stored in deployed.json after deployment:
-TokenA: [TOKEN_A_ADDRESS]
-TokenB: [TOKEN_B_ADDRESS]
-LPToken: [LP_TOKEN_ADDRESS]
-MockOracle: [MOCK_ORACLE_ADDRESS]
-AMMWithOracle: [AMM_ADDRESS]
+- TokenA: [TOKEN_A_ADDRESS]
+- TokenB: [TOKEN_B_ADDRESS]
+- LPToken: [LP_TOKEN_ADDRESS]
+- MockOracle: [MOCK_ORACLE_ADDRESS]
+- AMMWithOracle: [AMM_ADDRESS]
 
 🧪 Run Unit Tests
 
@@ -102,11 +102,11 @@ Open index.html in your browser
 Connect MetaMask to Sepolia
 
 Use the interface to:
-🔄 Swap TokenA → TokenB
-➕ Add liquidity
-➖ Remove liquidity
-📈 View pool price & oracle price
-💰 Track your LP token balance
+- 🔄 Swap TokenA → TokenB
+- ➕ Add liquidity
+- ➖ Remove liquidity
+- 📈 View pool price & oracle price
+- 💰 Track your LP token balance
 
 🖼️ Example Interface
 
